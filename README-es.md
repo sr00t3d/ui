@@ -1,5 +1,7 @@
 # ui — Inspector Unificado de Cuentas cPanel y Linux (`v2.0.0`)
 
+![ui cover](ui-cover.webp)
+
 Una CLI moderna e independiente en Bash + Python 3 para inspeccionar cuentas **cPanel/WHM** y **cuentas Linux**, reemplazando el legado en Perl `ui.pl` (2012) sin dependencias CPAN externas, con ejecución segura de subprocesos y salidas en `table` / `json` / `csv`.
 
 ## Características
